@@ -1,0 +1,1 @@
+GEOPOS_GREENWICH = ('51n28', '0e00')
